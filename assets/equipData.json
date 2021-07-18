@@ -1,0 +1,47 @@
+{
+    "1": {
+        "image_url": "https://nwscdn.com/media/catalog/product/cache/all/thumbnail/800x/9df78eab33525d08d6e5fb8d27136e95/2/5/25kg_1_5.jpg",
+        "description": "A barbell is a piece of exercise equipment used in weight training,bodybuilding, weightlifting and powerlifting, consisting of a long bar, usually with weights attached at each end. ... Standard barbells are usually an estimated weight of 20 kilograms (44 lb).",
+        "price": "75"
+    },
+    "8": {
+        "image_url": "https://i5.walmartimages.com/asr/b4c63909-fdfe-453d-a395-d5eaeb9ee2cf.deb0bd3c8d9ef57512e75f52472cdaac.jpeg?odnWidth=400&odnHeight=400&odnBg=ffffff",
+        "description": "The bench press, or chest press, is an upper-body weight training exercise in which the trainee presses a weight upwards while lying on a weight training bench. The exercise uses the pectoralis major, the anterior deltoids, and the triceps, among other stabilizing muscles.",
+        "price": "200"
+    },
+    "3": {
+        "image_url": "https://gritelite.com/wp-content/uploads/2019/09/IMG_0667.png",
+        "description": "The definition of a dumbbell is a device with a short bar between two weights, used for exercise or building muscles, or is slang for a dumb person. ... A device usually used in pairs, consisting of round weights joined by a short bar, by which it is lifted or swung about in the hand for muscular exercise.",
+        "price": "50"
+    },
+    "4": {
+        "image_url": "https://cdn.shopify.com/s/files/1/0471/3879/9774/products/HangingExerciseMat_8MM_1135x.jpg?v=1620421520",
+        "description": "Mats are used for safety in gymnastics, and in training new skills. ... They are usually a piece of foam (covered in leather) ranging from 1.5-28 inches thick, covered in a vinyl or plastic lining. The foam ranges in density from relatively firm to very soft.",
+        "price": "20"
+    },
+    "9": {
+        "image_url": "https://performbetter.co.uk/wp-content/uploads/2016/03/adjustable-flat-to-incline-PB723.jpg",
+        "description": "The Incline Bench Press is a version of the traditional Bench Press in which the bench is positioned at about a 45-degree angle. The resulting inclined position targets your upper chest and the frontside of your shoulders more the the standard flat bench.",
+        "price": "150"
+    },
+    "10": {
+        "image_url": "https://gymbeam.com/media/catalog/product/cache/926507dc7f93631a094422215b778fe0/a/d/adjustable-kettlebell-4-5-18kg-gymbeam_1_.jpg",
+        "description": "The kettlebell is a cast iron or cast steel ball with a handle attached to the top (resembling a cannonball with a handle). It is used to perform many types of exercises, including ballistic exercises that combine cardiovascular, strength and flexibility training.",
+        "price": "50"
+    },
+    "7": {
+        "image_url": "https://img.lovepik.com/element/40024/2677.png_860.png",
+        "description": "Remember that you can always get the fitness you need for free. Take a look at the exercises below here and make sure you do them as instructed and in the right way. Our trainers are always available to give you any advice you need.",
+        "price": "0"
+    },
+    "6": {
+        "image_url": "https://cdnprod.mafretailproxy.com/sys-master-root/hdc/h01/10832812212254/638448007147_main_480Wx480H",
+        "description": "A pull-up is an upper-body strength exercise. The pull-up is a closed-chain movement where the body is suspended by the hands and pulls up. As this happens, the elbows flex and the shoulders adduct and extend to bring the elbows to the torso.",
+        "price": "29.99"
+    },
+    "2": {
+        "image_url": "https://www.garagegymreviews.com/admin/item_images/d840cc5d906c3e9c84374c8919d2074e_5d0a74df06529.jpeg",
+        "description": "An EZ-bar curl is, well, easy. Stand with your feet houlder-width apart, knees slightly bent. Hold an EZ-bar in an underhand grip with your arms extended and then curl the bar up towards your chest, keeping your elbows in to your sides. But it’s also easy to get the finer points wrong – nail your form with these tips.",
+        "price": "100"
+    }
+}
